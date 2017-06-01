@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ChatBot</string>
+    <string name="simsimi_api">a21e8e60-ea5e-4399-8dba-088acce4795d</string>
+    <string name="welcome">Welcome, buddy! Please enter your Twitter handle below</string>
+    <string name="action_settings">Settings</string>
+    <string name="button">Send</string>
+    <string name="title_activity_login">Login</string>
+</resources>
